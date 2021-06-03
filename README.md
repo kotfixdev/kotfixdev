@@ -6,5 +6,4 @@ NS RNJ
 - чё писать аааааааааааааааааааааа
 - sample text
 
-[![котфех стата](https://github-readme-stats.vercel.app/api?username=kotfixdev&show_icons=true&theme=dark)
-)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![котфех стата](https://github-readme-stats.vercel.app/api?username=kotfixdev&show_icons=true&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
