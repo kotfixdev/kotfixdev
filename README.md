@@ -5,3 +5,5 @@ NS RNJ
 - вы можете задонатеть мне на https://new.donatepay.ru/@kotfixdev
 - чё писать аааааааааааааааааааааа
 - sample text
+
+[![котфех стата](https://github-readme-stats.vercel.app/api?username=kotfixdev)](https://github.com/anuraghazra/github-readme-stats)
