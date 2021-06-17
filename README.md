@@ -1,3 +1,4 @@
+# kotfix.
 - типо javascript разработчик, пытаюсь че то писать (рисовать) на lua
 - донат -----> https://new.donatepay.ru/@kotfixdev
 - he/him
