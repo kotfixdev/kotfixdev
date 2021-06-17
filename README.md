@@ -1,5 +1,5 @@
 # kotfix.
-- типо javascript разработчик, пытаюсь че то писать (рисовать) на lua
+- типо javascript разработчик, калякаю на lua
 - донат -----> https://new.donatepay.ru/@kotfixdev
 - he/him
 
