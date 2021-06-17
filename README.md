@@ -1,6 +1,6 @@
-# kotfixdev.
+# кот.
 - типо javascript разработчик, калякаю на lua.
-- живу в россии/перми
+- живу в россии/перми.
 - донат -----> https://new.donatepay.ru/@kotfixdev.
 - he/him.
 
