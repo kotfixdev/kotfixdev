@@ -1,5 +1,5 @@
 # кот.
-- типо javascript разработчик, калякаю на lua.
+- типо full-stack javascript разработчик, калякаю на lua.
 - живу в россии/перми.
 - сайт ----> https://kotfixdev.ml
 - he/him / support lgbtq+ community
