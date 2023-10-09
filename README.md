@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=2F81F7&vCenter=true&width=435&lines=fullstack+js+dev+(react.js%2C+next.js%2C+fastify)+dev;+trying+in+lua%2C+java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=2F81F7&vCenter=true&width=435&lines=fullstack+js+(react.js%2C+next.js%2C+fastify)+dev;+trying+in+lua%2C+java)](https://git.io/typing-svg)
